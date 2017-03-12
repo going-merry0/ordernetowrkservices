@@ -9,10 +9,10 @@ service for ordering.
 ## Screenshots
 
 By default:
-![](http://og9g58alt.bkt.clouddn.com/ordernetworkservice1.gif)
+<img src="http://og9g58alt.bkt.clouddn.com/ordernetworkservice1.gif" width="300">
 
 This way:
-![](http://og9g58alt.bkt.clouddn.com/ordernetworkservice.gif)
+<img src="http://og9g58alt.bkt.clouddn.com/ordernetworkservice.gif" width="300">
 
 ## Build Setup
 
