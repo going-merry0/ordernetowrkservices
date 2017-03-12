@@ -57,6 +57,7 @@ export default {
       let ne = this.list.slice(0)
       ne.splice(evt.newIndex, 0, ne.splice(evt.oldIndex, 1)[0])
       NetworkService.setServicesOrder(ne).then(() => {
+        this.list = ne
         this.$message({
           type: 'success',
           message: 'This operation succeeds.'
