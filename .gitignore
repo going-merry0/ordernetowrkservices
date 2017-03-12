@@ -3,6 +3,7 @@ app/dist/index.html
 app/dist/main.js
 app/dist/renderer.js
 app/dist/styles.css
+app/dist/fonts
 builds/*
 node_modules/
 npm-debug.log
