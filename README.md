@@ -8,11 +8,9 @@ service for ordering.
 
 ## Screenshots
 
-By default:
-<img src="http://og9g58alt.bkt.clouddn.com/ordernetworkservice1.gif" width="300">
+[By default](http://og9g58alt.bkt.clouddn.com/ordernetworkservice1.gif)
 
-This way:
-<img src="http://og9g58alt.bkt.clouddn.com/ordernetworkservice.gif" width="300">
+[From this way](http://og9g58alt.bkt.clouddn.com/ordernetworkservice.gif)
 
 ## Build Setup
 
