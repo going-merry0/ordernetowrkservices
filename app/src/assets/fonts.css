@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 500;
+    src: local('☺︎'), url("./fonts/sf-pro-display_medium.woff") format("woff");
+    /* (C) 2015 Apple Inc. All rights reserved.*/
+}
+
+@font-face {
+    font-family: 'SF Pro Text';
+    font-style: normal;
+    font-weight: 600;
+    src: local('☺︎'), url("./fonts/sf-pro-text_semibold.woff") format("woff")
+    /* (C) 2015 Apple Inc. All rights reserved.*/
+}
+
+@font-face {
+    font-family: 'SF Pro Text';
+    font-style: normal;
+    font-weight: 700;
+    src: local('☺︎'), url("./fonts/sf-pro-text_bold.woff") format("woff");
+    /* (C) 2015 Apple Inc. All rights reserved.*/
+}
+
+@font-face {
+    font-family: 'SF Pro Text';
+    font-style: normal;
+    font-weight: 400;
+    src: local('☺︎'), url("./fonts/sf-pro-text_regular.woff") format("woff");
+    /* (C) 2015 Apple Inc. All rights reserved.*/
+}
+
+@font-face {
+    font-family: 'SF Pro Icons';
+    font-style: normal;
+    font-weight: 400;
+    src: local('☺︎'), url("./fonts/SFProIcons_regular.woff") format("woff");
+    /* (C) 2015 Apple Inc. All rights reserved.*/
+}
