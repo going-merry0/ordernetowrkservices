@@ -2,9 +2,9 @@
 
 Simple GUI for ordering network services.
 
-By default you can order your network services via `System Preferences -> Network -> Set Service Order`,
-but this way is not convenient, so this repo provide a intuitive way you can just drag and drop the network
-service for ordering.
+By default you can order network services via `System Preferences -> Network -> Set Service Order`,
+but this way is inconvenient, so this repo provide an intuitive way for you can just drag and drop to order the network
+services.
 
 ## Screenshots
 
